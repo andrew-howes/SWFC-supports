@@ -1,0 +1,4 @@
+'("3* Dark Eye Droid" "4* Queen Apailana" "5* Padme" "5* Padme" "Anakin TFO" "Anakin TFO" "Anakin TFO")
+'("3* Dark Eye Droid" "4* Queen Apailana" "5* Padme" "5* Queen" "Anakin TFO" "Anakin TFO" "Anakin TFO")
+'("3* Dark Eye Droid" "4* Queen Apailana" "5* Queen" "5* Queen" "Anakin TFO" "Anakin TFO" "Anakin TFO")
+'(#<void> #<void> #<void>)

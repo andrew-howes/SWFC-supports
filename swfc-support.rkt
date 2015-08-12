@@ -171,8 +171,8 @@
     [else #f])
   (for ([card card-list-4])
     #:break (> (length total-requirements) (cond [(= numskills 2) 5]
-                                                 [(= numskills 3) 6]
-                                                 [(= numskills 4) 7]))
+                                                 [(= numskills 3) 7]
+                                                 [(= numskills 4) 9]))
     (set! card-4 card)
     (iterate-step-5)
     )
@@ -180,9 +180,13 @@
   )
 (define (iterate-step-5)
   (refresh-requirements)
-  (set! card-list-5 (get-candidate-list
+  (if (= numskills 4)
+      (set! card-list-5 (get-candidate-list
                      remaining-requirements
-                     card-list-4))
+                     all-cards))
+      (set! card-list-5 (get-candidate-list
+                     remaining-requirements
+                     card-list-4)))
   (for ([card card-list-5])
     (set! card-5 card)
     (iterate-step-6)
