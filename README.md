@@ -21,3 +21,5 @@ For example, (find-sets proximity-3 prep-5) would search for combinations that s
 
 Other minor abilities, like Call of the Light/Dark Side, Battle Credit up, and Battle Penalty down aren't included currently because they aren't as useful in batle, and would just make it more difficult to find combinations. 
 
+
+Note that this takes time since it's exhaustively searching for working combinations - execution of one search may take 5-10 minutes. 
