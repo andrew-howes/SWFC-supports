@@ -125,7 +125,9 @@
   (set! card-list-3 list3)
   (set! card-list-4 list4)
   (iterate-step-1)
+  (printf "~a Combinations~n" (length solutions))
   (map (lambda (x) (print-card-set x) (newline)) solutions)
+  (newline)
   )
 
 (define (iterate-step-1)

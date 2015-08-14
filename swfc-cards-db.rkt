@@ -1,11 +1,11 @@
 #lang plai
 (define 5-cards `(("5* Darth Sidious" 5 ("male" "republic" "empire" "sith" "senator" "naboo"))
                   ("5* Appo" 5 ("male" "republic" "empire" "clone"))
-                  ("Obi VC" 5 ("male" "republic" "jedi" "beast"))
+                  ("5* Obi VC" 5 ("male" "republic" "jedi" "beast"))
                   ("5* anakin" 5 ("male" "republic" "jedi" "tatooine"))
                   ("5* Jedi" 5 ("male" "republic" "jedi"))
                   ("5* Palpatine" 5 ("male" "republic" "sith" "senator" "naboo"))
-                  ("JJBGS" 5 ("male" "republic" "senator" "gungan" "naboo"))
+                  ("5* JJBGS" 5 ("male" "republic" "senator" "gungan" "naboo"))
                   ("5* non-appo Clone" 5 ("male" "republic" "clone"))
                   ("5* Chewie" 5 ("male" "republic" "wookie"))
                   ("5* dooku" 5 ("male" "separatist" "sith"))
@@ -13,15 +13,15 @@
                   ("5* Grievous" 5 ("male" "separatist" "droid"))
                   ("5* Nute" 5 ("male" "separatist"))
                   ("5* Luke" 5 ("male" "rebel" "jedi" "tatooine"))
-                  ("Chewie WW" 5 ("male" "rebel" "wookie"))
+                  ("5* Chewie WW" 5 ("male" "rebel" "wookie"))
                   ("5* rebel" 5 ("male" "rebel"))
-                  ("Sid SD" 5 ("male" "empire" "sith" "senator" "naboo"))
-                  ("emperor palpatine" 5 ("male" "empire" "sith" "naboo"))
-                  ("Anakin TFO" 5 ("male" "empire" "sith" "tatooine"))
+                  ("5* Sidious SD" 5 ("male" "empire" "sith" "senator" "naboo"))
+                  ("5* emperor palpatine" 5 ("male" "empire" "sith" "naboo"))
+                  ("5* Anakin TFO" 5 ("male" "empire" "sith" "tatooine"))
                   ("5* Vader" 5 ("male" "empire" "sith"))
                   ("5* empire" 5 ("male" "empire"))
                   ("5* Ben" 5 ("male" "jedi" "tatooine"))
-                  ("Yoda EoD" 5 ("male" "jedi"))
+                  ("5* Yoda EoD" 5 ("male" "jedi"))
                   ("5* Maul" 5 ("male" "sith"))
                   ("5* Boba" 5 ("male" "bounty" "jabba"))
                   ("5* Bounty" 5 ("male" "bounty"))
@@ -29,7 +29,7 @@
                   ("5* JJB" 5 ("male" "gungan" "naboo"))
                   ("5* Female Jedi" 5 ("female" "republic" "jedi"))
                   ("5* Padme" 5 ("female" "republic" "senator" "naboo"))
-                  ("5* Queen" 5 ("female" "republic" "naboo"))
+;                  ("5* Queen" 5 ("female" "republic" "naboo"))
                   ("5* Leia" 5 ("female" "rebel"))
                   ("5* female bounty" 5 ("female" "bounty"))
                   ("5* R2D2" 5 ("republic" "droid" "naboo"))
@@ -482,6 +482,49 @@
                    ("ewok" "beast")
                    ("3* Chief Chirpa" 3 ("male" "ewok")))
                   ))
+(define hp-1 `(("3* Dexter"
+                 "hp 1"
+                 3
+                 ("empire" "male")
+                 ("3* Dexter" 3 ("male" "empire")))
+                ("2* Rabe"
+                 "hp 1"
+                 3
+                 ("naboo" "female")
+                 ("2* Rabe" 2 ("female" "naboo" "republic")))
+                ("2* Shu Mai"
+                 "hp 1"
+                 3
+                 ("separatist" "female")
+                 ("2* Shu Mai" 2 ("female" "separatist")))
+                ("2* Shmi Skywalker"
+                 "hp 1"
+                 3
+                 ("tatooine" "female")
+                 ("2* Shmi" 3 ("female" "tatooine")))
+                ))
+
+(define hp-2 `(("3* Dexter"
+                 "hp 2"
+                 5
+                 ("empire" "male")
+                 ("3* Dexter" 3 ("male" "empire")))
+                ("2* Rabe"
+                 "hp 2"
+                 5
+                 ("naboo" "female")
+                 ("2* Rabe" 2 ("female" "naboo" "republic")))
+                ("2* Shu Mai"
+                 "hp 2"
+                 5
+                 ("separatist" "female")
+                 ("2* Shu Mai" 2 ("female" "separatist")))
+                ("2* Shmi Skywalker"
+                 "hp 2"
+                 5
+                 ("tatooine" "female")
+                 ("2* Shmi" 3 ("female" "tatooine")))
+                ))
 
 (define hp-3 `(("3* Dexter"
                  "hp 3"
