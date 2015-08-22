@@ -120,6 +120,7 @@
   (cond [(empty? list3) (set! numskills 2)]
         [(empty? list4) (set! numskills 3)]
         [else (set! numskills 4)])
+  (set! solutions `())
   (set! card-list-1 list1)
   (set! card-list-2 list2)
   (set! card-list-3 list3)
@@ -171,12 +172,14 @@
                             remaining-requirements
                             all-cards))]
     [else #f])
-  (for ([card card-list-4])
-    #:break (> (length total-requirements) (cond [(= numskills 2) 5]
-                                                 [(= numskills 3) 7]
-                                                 [(= numskills 4) 9]))
-    (set! card-4 card)
-    (iterate-step-5)
+  (unless (> (length total-requirements) (cond [(= numskills 2) 6]
+                                             [(= numskills 3) 7]
+                                             [(= numskills 4) 9]))
+    (for ([card card-list-4])
+      
+      (set! card-4 card)
+      (iterate-step-5)
+      )
     )
   (set! card-4 '())
   )
@@ -184,11 +187,11 @@
   (refresh-requirements)
   (if (= numskills 4)
       (set! card-list-5 (get-candidate-list
-                     remaining-requirements
-                     all-cards))
+                         remaining-requirements
+                         all-cards))
       (set! card-list-5 (get-candidate-list
-                     remaining-requirements
-                     card-list-4)))
+                         remaining-requirements
+                         card-list-4)))
   (for ([card card-list-5])
     (set! card-5 card)
     (iterate-step-6)

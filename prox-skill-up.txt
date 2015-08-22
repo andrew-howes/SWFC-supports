@@ -1,0 +1,21 @@
+"Proximity 3, Prep skill up 5"
+1 Combinations
+'("3* Dark Eye Droid" "4* Queen Apailana" "5* Anakin TFO" "5* Anakin TFO" "5* Anakin TFO" "5* Padme" "5* Padme")
+
+"Proximity 3, Prep skill up 4"
+14 Combinations
+'("4* boushh" "4* jabba" "4* rancor" "4* rancor" "5* Obi VC" "5* female bounty" "5* female bounty")
+'("4* boushh" "4* female bounty" "4* jabba" "4* rancor" "4* rancor" "5* Obi VC" "5* female bounty")
+'("3* Dark Eye Droid" "4* Queen Apailana" "5* Anakin TFO" "5* Anakin TFO" "5* Anakin TFO" "5* Padme" "5* Padme")
+'("3* Dark Eye Droid" "4* Queen Apailana" "4* padme bot" "5* Anakin TFO" "5* Anakin TFO" "5* Anakin TFO" "5* Padme")
+'("3* Dark Eye Droid" "4* Queen Apailana" "4* neutral queen" "5* Anakin TFO" "5* Anakin TFO" "5* Anakin TFO" "5* Padme")
+'("3* Dark Eye Droid" "3* padme" "4* Queen Apailana" "5* Anakin TFO" "5* Anakin TFO" "5* Anakin TFO" "5* Padme")
+'("3* Dark Eye Droid" "3* padme in disguise" "4* Queen Apailana" "5* Anakin TFO" "5* Anakin TFO" "5* Anakin TFO" "5* Padme")
+'("3* Dark Eye Droid" "4* Queen Apailana" "4* padme bot" "4* padme bot" "5* Anakin TFO" "5* Anakin TFO" "5* Anakin TFO")
+'("3* Dark Eye Droid" "4* Queen Apailana" "4* neutral queen" "4* padme bot" "5* Anakin TFO" "5* Anakin TFO" "5* Anakin TFO")
+'("3* Dark Eye Droid" "3* padme" "4* Queen Apailana" "4* padme bot" "5* Anakin TFO" "5* Anakin TFO" "5* Anakin TFO")
+'("3* Dark Eye Droid" "3* padme in disguise" "4* Queen Apailana" "4* padme bot" "5* Anakin TFO" "5* Anakin TFO" "5* Anakin TFO")
+'("3* Dark Eye Droid" "4* Queen Apailana" "4* neutral queen" "4* neutral queen" "5* Anakin TFO" "5* Anakin TFO" "5* Anakin TFO")
+'("3* Dark Eye Droid" "3* padme" "4* Queen Apailana" "4* neutral queen" "5* Anakin TFO" "5* Anakin TFO" "5* Anakin TFO")
+'("3* Dark Eye Droid" "3* padme in disguise" "4* Queen Apailana" "4* neutral queen" "5* Anakin TFO" "5* Anakin TFO" "5* Anakin TFO")
+
