@@ -1,3 +1,0 @@
-"Nullify, Ambush 1, HP 3, Prep skill up 2"
-'("2* Rabe" "3* Chief Chirpa" "3* Shaak (credit piñata)/Fambaa" "4* Queen Jamillia" "4* Wicket W Warrick" "5* Leia" "Obi VC")
-'(#<void>)

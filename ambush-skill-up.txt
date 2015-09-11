@@ -1,4 +1,0 @@
-"Ambush 3, Prep skill up 5"
-1 Combinations
-'("3* logray" "4* Wicket" "4* Wicket" "4* Wicket W Warrick" "5* C-3PO" "5* C-3PO" "5* C-3PO")
-

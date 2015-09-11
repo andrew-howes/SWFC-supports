@@ -37,6 +37,8 @@
                   ("5* C-3PO" 5 ("rebel" "droid"))
                   ("5* Sebulba" 5 ("male" "pod"))
                   ("5* anipod" 5 ("male" "pod" "tatooine"))
+                  ("5* vader/palp" 5 ("male" "jedi" "sith" "empire"))
+                  ("5* rancor" 5 ("beast" "tattoine" "jabba"))
                   )
   )
 
@@ -178,7 +180,7 @@
                   "prep 1"
                   3
                   ("sith" "senator")
-                  ("3* mon mothma" 3 ("female" "republic")))
+                  ("3* sly moore" 3 ("female" "republic")))
                  ("3* logray"
                   "prep 1"
                   3
@@ -216,7 +218,7 @@
                   "prep 2"
                   6
                   ("sith" "senator")
-                  ("3* mon mothma" 3 ("female" "republic")))
+                  ("3* sly moore" 3 ("female" "republic")))
                  ("3* logray"
                   "prep 2"
                   6
@@ -254,7 +256,7 @@
                   "prep 3"
                   9
                   ("sith" "senator")
-                  ("3* mon mothma" 3 ("female" "republic")))
+                  ("3* sly moore" 3 ("female" "republic")))
                  ("3* logray"
                   "prep 3"
                   9
@@ -292,7 +294,7 @@
                   "prep 4"
                   12
                   ("sith" "senator")
-                  ("3* mon mothma" 3 ("female" "republic")))
+                  ("3* sly moore" 3 ("female" "republic")))
                  ("3* logray"
                   "prep 4"
                   12
@@ -330,7 +332,7 @@
                   "prep 5"
                   15
                   ("sith" "senator")
-                  ("3* mon mothma" 3 ("female" "republic")))
+                  ("3* sly moore" 3 ("female" "republic")))
                  ("3* logray"
                   "prep 5"
                   15
@@ -507,8 +509,8 @@
 (define hp-1 `(("3* Dexter"
                  "hp 1"
                  3
-                 ("empire" "male")
-                 ("3* Dexter" 3 ("male" "empire")))
+                 ("republic" "male")
+                 ("3* Dexter" 3 ("male" "republic")))
                 ("2* Rabe"
                  "hp 1"
                  3
@@ -523,14 +525,14 @@
                  "hp 1"
                  3
                  ("tatooine" "female")
-                 ("2* Shmi" 3 ("female" "tatooine")))
+                 ("2* Shmi" 2 ("female" "tatooine")))
                 ))
 
 (define hp-2 `(("3* Dexter"
                  "hp 2"
                  5
-                 ("empire" "male")
-                 ("3* Dexter" 3 ("male" "empire")))
+                 ("republic" "male")
+                 ("3* Dexter" 3 ("male" "republic")))
                 ("2* Rabe"
                  "hp 2"
                  5
@@ -545,14 +547,14 @@
                  "hp 2"
                  5
                  ("tatooine" "female")
-                 ("2* Shmi" 3 ("female" "tatooine")))
+                 ("2* Shmi" 2 ("female" "tatooine")))
                 ))
 
 (define hp-3 `(("3* Dexter"
                  "hp 3"
                  7
-                 ("empire" "male")
-                 ("3* Dexter" 3 ("male" "empire")))
+                 ("republic" "male")
+                 ("3* Dexter" 3 ("male" "republic")))
                 ("2* Rabe"
                  "hp 3"
                  7
@@ -567,13 +569,13 @@
                  "hp 3"
                  7
                  ("tatooine" "female")
-                 ("2* Shmi" 3 ("female" "tatooine")))
+                 ("2* Shmi" 2 ("female" "tatooine")))
                 ))
 (define hp-4 `(("3* Dexter"
                  "hp 4"
                  9
-                 ("empire" "male")
-                 ("3* Dexter" 3 ("male" "empire")))
+                 ("republic" "male")
+                 ("3* Dexter" 3 ("male" "republic")))
                 ("2* Rabe"
                  "hp 4"
                  9
@@ -588,13 +590,13 @@
                  "hp 4"
                  9
                  ("tatooine" "female")
-                 ("2* Shmi" 3 ("female" "tatooine")))
+                 ("2* Shmi" 2 ("female" "tatooine")))
                 ))
 (define hp-5 `(("3* Dexter"
                  "hp 5"
                  12
-                 ("empire" "male")
-                 ("3* Dexter" 3 ("male" "empire")))
+                 ("republic" "male")
+                 ("3* Dexter" 3 ("male" "republic")))
                 ("2* Rabe"
                  "hp 5"
                  12
@@ -609,7 +611,7 @@
                  "hp 5"
                  12
                  ("tatooine" "female")
-                 ("2* Shmi" 3 ("female" "tatooine")))
+                 ("2* Shmi" 2 ("female" "tatooine")))
                 ))
 
 
