@@ -172,9 +172,13 @@
                             remaining-requirements
                             all-cards))]
     [else #f])
-  (unless (> (length total-requirements) (cond [(= numskills 2) 6]
-                                             [(= numskills 3) 7]
-                                             [(= numskills 4) 9]))
+  (unless
+      (> (length total-requirements)
+;         (cond [(= numskills 2) 6]
+;               [(= numskills 3) 7]
+;               [(= numskills 4) 9])
+         11
+         )
     (for ([card card-list-4])
       
       (set! card-4 card)

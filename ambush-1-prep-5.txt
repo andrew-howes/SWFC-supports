@@ -1,0 +1,16 @@
+"Ambush 1, Prep skill up 5, HP 1"
+0 Combinations
+
+
+
+"Ambush 1, Prep skill up 5, HP 2"
+"0 Combinations"
+
+"Ambush 1, Prep skill up 5, HP 3"
+"0 Combinations"
+
+"Ambush 1, Prep skill up 5, HP 4"
+"0 Combinations"
+
+"Ambush 1, Prep skill up 5, HP 5"
+"0 Combinations"

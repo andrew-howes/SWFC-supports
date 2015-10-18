@@ -78,6 +78,7 @@
                   ("4* R2D2" 4 ("republic" "droid" "naboo"))
                   ("4* C-3PO" 4 ("republic" "droid" "tatooine"))
                   ("4* separatist droid" 4 ("separatist" "droid"))
+                  ("4* DD-13" 4 ("empire" "droid"))
                   ("4* bounty droid" 4 ("bounty" "droid"))
                   ("4* rancor" 4 ("jabba" "beast" "tatooine"))
                   )
@@ -614,5 +615,102 @@
                  ("2* Shmi" 2 ("female" "tatooine")))
                 ))
 
+(define call-ls `(("4* Adi Gallia"
+                 "call of the LS"
+                 4
+                 ("jedi" "sith")
+                 ("4* Adi Gallia" 4 ("female" "republic" "jedi")))
+                ("4* Ben Kenobi"
+                 "call of the LS"
+                 4
+                 ("jedi" "sith")
+                 ("4* Ben Kenobi" 4 ("male" "jedi" "tatooine")))
+                ("3* Yoda [JC]"
+                 "call of the LS"
+                 4
+                 ("jedi" "sith")
+                 ("3* Yoda [JC]" 3 ("male" "republic" "jedi")))
+                ))
 
-(define all-cards (append 5-cards 4-cards 3-cards 2-cards))
+(define lure-ds `(("4* Vader DS"
+                 "Lure of the DS"
+                 4
+                 ("jedi" "sith")
+                 ("4* Vader DS" 4 ("male" "empire" "sith")))
+                ("3* Anakin [sith]"
+                 "Lure of the DS"
+                 4
+                 ("jedi" "sith")
+                 ("3* Anakin [sith]" 3 ("male" "sith" "tatooine")))
+                ("3* Dooku"
+                 "Lure of the DS"
+                 4
+                 ("jedi" "sith")
+                 ("3* Dooku" 3 ("male" "separatist" "sith")))
+                ))
+
+(define anti-saber `(("4* Umbaran Soldier"
+                 "anti-lightsaber tactics"
+                 4
+                 ("sith" "bounty" "separatist")
+                 ("4* Umbaran Soldier" 4 ("male" "separatist")))
+                ("4* ARC Trooper Fives"
+                 "anti-lightsaber tactics"
+                 4
+                 ("jedi" "bounty" "republic")
+                 ("4* ARC Trooper Fives" 4 ("male" "republic" "clone")))
+                ))
+
+(define undercover-1 `(("3* Obi [JK]"
+                 "undercover 1"
+                 4
+                 ("jedi" "bounty")
+                 ("3* Obi [JK]" 3 ("male" "jedi" "republic")))
+                ("3* Clone Trooper: 501st Legion"
+                 "undercover 1"
+                 3
+                 ("republic" "separatist")
+                 ("3* Clone Trooper: 501st Legion" 3 ("male" "clone" "republic")))
+                ("2* Garindan"
+                 "undercover 1"
+                 4
+                 ("empire" "tatooine")
+                 ("2* Garindan" 2 ("male" "tatooine")))
+                ))
+
+(define undercover-2 `(("3* Obi [JK]"
+                 "undercover 1"
+                 7
+                 ("jedi" "bounty")
+                 ("3* Obi [JK]" 3 ("male" "jedi" "republic")))
+                ("3* Clone Trooper: 501st Legion"
+                 "undercover 1"
+                 6
+                 ("republic" "separatist")
+                 ("3* Clone Trooper: 501st Legion" 3 ("male" "clone" "republic")))
+                ("2* Garindan"
+                 "undercover 1"
+                 7
+                 ("empire" "tatooine")
+                 ("2* Garindan" 2 ("male" "tatooine")))
+                ))
+
+(define undercover-3 `(("3* Obi [JK]"
+                 "undercover 1"
+                 10
+                 ("jedi" "bounty")
+                 ("3* Obi [JK]" 3 ("male" "jedi" "republic")))
+                ("3* Clone Trooper: 501st Legion"
+                 "undercover 1"
+                 9
+                 ("republic" "separatist")
+                 ("3* Clone Trooper: 501st Legion" 3 ("male" "clone" "republic")))
+                ("2* Garindan"
+                 "undercover 1"
+                 10
+                 ("empire" "tatooine")
+                 ("2* Garindan" 2 ("male" "tatooine")))
+                ))
+
+
+(define all-cards (append 5-cards 4-cards 3-cards))

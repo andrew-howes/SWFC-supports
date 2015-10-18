@@ -1,0 +1,81 @@
+"Nullify, Lure of the DS, Ambush 3, HP up 5"
+0 Combinations
+
+
+
+"Nullify, Lure of the DS, Ambush 3, HP up 4"
+0 Combinations
+
+
+
+"Nullify, Lure of the DS, Ambush 2, HP up 5"
+26 Combinations
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Appo" "5* Obi VC" "5* Tarkin")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Appo" "5* Tarkin" "5* anakin")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Appo" "5* Jedi" "5* Tarkin")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Appo" "5* Female Jedi" "5* Tarkin")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Appo" "5* Tarkin" "5* vader/palp")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Appo" "5* Luke" "5* Tarkin")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Appo" "5* Ben" "5* Tarkin")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Appo" "5* Tarkin" "5* Yoda EoD")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Obi VC" "5* Tarkin" "5* non-appo Clone")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Tarkin" "5* anakin" "5* non-appo Clone")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Jedi" "5* Tarkin" "5* non-appo Clone")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Female Jedi" "5* Tarkin" "5* non-appo Clone")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Tarkin" "5* non-appo Clone" "5* vader/palp")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Luke" "5* Tarkin" "5* non-appo Clone")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Ben" "5* Tarkin" "5* non-appo Clone")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Tarkin" "5* Yoda EoD" "5* non-appo Clone")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Tarkin" "5* non-appo Clone" "5* non-appo Clone" "5* vader/palp")
+'("3* Anakin [sith]" "3* Dexter" "4* Agen Kolar" "5* Appo" "5* Appo" "5* Tarkin" "5* vader/palp")
+'("3* Anakin [sith]" "3* Dexter" "4* Agen Kolar" "5* Appo" "5* Tarkin" "5* non-appo Clone" "5* vader/palp")
+'("3* Anakin [sith]" "3* Dexter" "4* Agen Kolar" "5* Tarkin" "5* non-appo Clone" "5* non-appo Clone" "5* vader/palp")
+'("3* Dexter" "3* Dooku" "4* Agen Kolar" "5* Appo" "5* Appo" "5* Tarkin" "5* vader/palp")
+'("3* Dexter" "3* Dooku" "4* Agen Kolar" "5* Appo" "5* Tarkin" "5* non-appo Clone" "5* vader/palp")
+'("3* Dexter" "3* Dooku" "4* Agen Kolar" "5* Tarkin" "5* non-appo Clone" "5* non-appo Clone" "5* vader/palp")
+'("3* Dexter" "4* C-3PO" "4* ObiPad" "4* Shadow Stormtrooper" "4* Vader DS" "5* Anakin TFO" "5* R2D2")
+'("3* Anakin [sith]" "3* Dexter" "4* C-3PO" "4* ObiPad" "4* Shadow Stormtrooper" "5* Anakin TFO" "5* R2D2")
+'("3* Dexter" "3* Dooku" "4* C-3PO" "4* ObiPad" "4* Shadow Stormtrooper" "5* Anakin TFO" "5* R2D2")
+
+
+
+"Nullify, Lure of the DS, Ambush 2, HP up 4"
+35 Combinations
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Appo" "5* Obi VC" "5* Tarkin")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Appo" "5* Tarkin" "5* anakin")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Appo" "5* Jedi" "5* Tarkin")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Appo" "5* Female Jedi" "5* Tarkin")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Appo" "5* Tarkin" "5* vader/palp")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Appo" "5* Luke" "5* Tarkin")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Appo" "5* Ben" "5* Tarkin")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Appo" "5* Tarkin" "5* Yoda EoD")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Obi VC" "5* Tarkin" "5* non-appo Clone")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Tarkin" "5* anakin" "5* non-appo Clone")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Jedi" "5* Tarkin" "5* non-appo Clone")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Female Jedi" "5* Tarkin" "5* non-appo Clone")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Tarkin" "5* non-appo Clone" "5* vader/palp")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Luke" "5* Tarkin" "5* non-appo Clone")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Ben" "5* Tarkin" "5* non-appo Clone")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Appo" "5* Tarkin" "5* Yoda EoD" "5* non-appo Clone")
+'("3* Dexter" "4* Agen Kolar" "4* Vader DS" "5* Tarkin" "5* non-appo Clone" "5* non-appo Clone" "5* vader/palp")
+'("3* Anakin [sith]" "3* Dexter" "4* Agen Kolar" "5* Appo" "5* Appo" "5* Tarkin" "5* vader/palp")
+'("3* Anakin [sith]" "3* Dexter" "4* Agen Kolar" "5* Appo" "5* Tarkin" "5* non-appo Clone" "5* vader/palp")
+'("3* Anakin [sith]" "3* Dexter" "4* Agen Kolar" "5* Tarkin" "5* non-appo Clone" "5* non-appo Clone" "5* vader/palp")
+'("3* Dexter" "3* Dooku" "4* Agen Kolar" "5* Appo" "5* Appo" "5* Tarkin" "5* vader/palp")
+'("3* Dexter" "3* Dooku" "4* Agen Kolar" "5* Appo" "5* Tarkin" "5* non-appo Clone" "5* vader/palp")
+'("3* Dexter" "3* Dooku" "4* Agen Kolar" "5* Tarkin" "5* non-appo Clone" "5* non-appo Clone" "5* vader/palp")
+'("3* Dexter" "4* C-3PO" "4* ObiPad" "4* Shadow Stormtrooper" "4* Vader DS" "5* Anakin TFO" "5* R2D2")
+'("3* Dexter" "4* C-3PO" "4* ObiPad" "4* Shadow Stormtrooper" "4* Vader DS" "5* Anakin TFO" "5* Grievous")
+'("3* Dexter" "4* C-3PO" "4* ObiPad" "4* Shadow Stormtrooper" "4* Vader DS" "5* Anakin TFO" "5* Separatist droid")
+'("3* Dexter" "4* C-3PO" "4* ObiPad" "4* Shadow Stormtrooper" "4* Vader DS" "5* Anakin TFO" "5* C-3PO")
+'("3* Anakin [sith]" "3* Dexter" "4* C-3PO" "4* ObiPad" "4* Shadow Stormtrooper" "5* Anakin TFO" "5* R2D2")
+'("3* Anakin [sith]" "3* Dexter" "4* C-3PO" "4* ObiPad" "4* Shadow Stormtrooper" "5* Anakin TFO" "5* Grievous")
+'("3* Anakin [sith]" "3* Dexter" "4* C-3PO" "4* ObiPad" "4* Shadow Stormtrooper" "5* Anakin TFO" "5* Separatist droid")
+'("3* Anakin [sith]" "3* Dexter" "4* C-3PO" "4* ObiPad" "4* Shadow Stormtrooper" "5* Anakin TFO" "5* C-3PO")
+'("3* Dexter" "3* Dooku" "4* C-3PO" "4* ObiPad" "4* Shadow Stormtrooper" "5* Anakin TFO" "5* R2D2")
+'("3* Dexter" "3* Dooku" "4* C-3PO" "4* ObiPad" "4* Shadow Stormtrooper" "5* Anakin TFO" "5* Grievous")
+'("3* Dexter" "3* Dooku" "4* C-3PO" "4* ObiPad" "4* Shadow Stormtrooper" "5* Anakin TFO" "5* Separatist droid")
+'("3* Dexter" "3* Dooku" "4* C-3PO" "4* ObiPad" "4* Shadow Stormtrooper" "5* Anakin TFO" "5* C-3PO")
+
+
+

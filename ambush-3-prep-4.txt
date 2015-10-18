@@ -1,0 +1,34 @@
+"Ambush 3, Prep skill up 4"
+6 Combinations
+'("3* logray" "4* Wicket" "4* Wicket" "4* Wicket W Warrick" "5* C-3PO" "5* C-3PO" "5* C-3PO")
+'("3* logray" "3* male ewok" "4* Wicket" "4* Wicket W Warrick" "5* C-3PO" "5* C-3PO" "5* C-3PO")
+'("3* logray" "3* zephee" "4* Wicket" "4* Wicket W Warrick" "5* C-3PO" "5* C-3PO" "5* C-3PO")
+'("3* logray" "3* male ewok" "3* male ewok" "4* Wicket W Warrick" "5* C-3PO" "5* C-3PO" "5* C-3PO")
+'("3* logray" "3* male ewok" "3* zephee" "4* Wicket W Warrick" "5* C-3PO" "5* C-3PO" "5* C-3PO")
+'("3* logray" "3* zephee" "3* zephee" "4* Wicket W Warrick" "5* C-3PO" "5* C-3PO" "5* C-3PO")
+
+
+
+"Ambush 3, Prep skill up 4, HP 1"
+0 Combinations
+
+
+
+"Ambush 3, Prep skill up 4, HP 2"
+0 Combinations
+
+
+
+"Ambush 3, Prep skill up 4, HP 3"
+0 Combinations
+
+
+
+"Ambush 3, Prep skill up 4, HP 4"
+0 Combinations
+
+
+
+"Ambush 3, Prep skill up 4, HP 5"
+0 Combinations
+
