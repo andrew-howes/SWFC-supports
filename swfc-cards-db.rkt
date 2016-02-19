@@ -1,5 +1,5 @@
 #lang plai
-(define 5-cards `(("5* Darth Sidious" 5 ("male" "republic" "empire" "sith" "senator" "naboo"))
+(define 5-cards `(("5* Sidious" 5 ("male" "republic" "empire" "sith" "senator" "naboo"))
                   ("5* Appo" 5 ("male" "republic" "empire" "clone"))
                   ("5* Obi VC" 5 ("male" "republic" "jedi" "beast"))
                   ("5* anakin" 5 ("male" "republic" "jedi" "tatooine"))
@@ -9,13 +9,14 @@
                   ("5* non-appo Clone" 5 ("male" "republic" "clone"))
                   ("5* Chewie" 5 ("male" "republic" "wookie"))
                   ("5* dooku" 5 ("male" "separatist" "sith"))
-                  ("5* Jango" 5 ("male" "separatist" "bounty"))
+                  ("5* Pre" 5 ("male" "separatist" "mandalorian"))
+                  ("5* Jango" 5 ("male" "separatist" "bounty" "mandalorian"))
                   ("5* Grievous" 5 ("male" "separatist" "droid"))
                   ("5* Nute" 5 ("male" "separatist"))
                   ("5* Luke" 5 ("male" "rebel" "jedi" "tatooine"))
                   ("5* Chewie WW" 5 ("male" "rebel" "wookie"))
                   ("5* rebel" 5 ("male" "rebel"))
-                  ("5* Sidious SD" 5 ("male" "empire" "sith" "senator" "naboo"))
+;                  ("5* Sidious SD" 5 ("male" "empire" "sith" "senator" "naboo"))
                   ("5* emperor palpatine" 5 ("male" "empire" "sith" "naboo"))
                   ("5* Anakin TFO" 5 ("male" "empire" "sith" "tatooine"))
                   ("5* Vader" 5 ("male" "empire" "sith"))
@@ -23,7 +24,10 @@
                   ("5* Ben" 5 ("male" "jedi" "tatooine"))
                   ("5* Yoda EoD" 5 ("male" "jedi"))
                   ("5* Maul" 5 ("male" "sith"))
-                  ("5* Boba" 5 ("male" "bounty" "jabba"))
+                  ("5* Maul Malice" 5 ("male" "sith" "droid"))
+                  ("5* Kylo" 5 ("male" "firstorder"))
+                  ("5* Finn" 5 ("male" "resistance"))
+                  ("5* Boba" 5 ("male" "bounty" "jabba" "mandalorian"))
                   ("5* Bounty" 5 ("male" "bounty"))
                   ("5* Jabba" 5 ("male" "jabba"))
                   ("5* JJB" 5 ("male" "gungan" "naboo"))
@@ -31,10 +35,14 @@
                   ("5* Padme" 5 ("female" "republic" "senator" "naboo"))
 ;                  ("5* Queen" 5 ("female" "republic" "naboo"))
                   ("5* Leia" 5 ("female" "rebel"))
+                  ("5* Phasma" 5 ("female" "firstorder"))
+                  ("5* Rey" 5 ("female" "resistance"))
                   ("5* female bounty" 5 ("female" "bounty"))
                   ("5* R2D2" 5 ("republic" "droid" "naboo"))
                   ("5* Separatist droid" 5 ("separatist" "droid"))
                   ("5* C-3PO" 5 ("rebel" "droid"))
+                  ("5* IG-88B" 5 ("droid" "bounty"))
+                  ("5* BB-8" 5 ("droid" "resistance"))
                   ("5* Sebulba" 5 ("male" "pod"))
                   ("5* anipod" 5 ("male" "pod" "tatooine"))
                   ("5* vader/palp" 5 ("male" "jedi" "sith" "empire"))
@@ -50,7 +58,7 @@
                   ("4* Panaka" 4 ("male" "republic" "naboo"))
                   ("4* republic" 4 ("male" "republic"))
                   ("4* Dooku" 4 ("male" "separatist" "sith"))
-                  ("4* Jango" 4 ("male" "separatist" "bounty"))
+                  ("4* Jango" 4 ("male" "separatist" "bounty" "mandalorian"))
                   ("4* Grievous" 4 ("male" "separatist" "droid"))
                   ("4* Separatist" 4 ("male" "separatist"))
                   ("4* Luke" 4 ("male" "rebel" "jedi" "tatooine"))
@@ -60,8 +68,10 @@
                   ("4* vader" 4 ("male" "empire" "sith"))
                   ("4* Sandtrooper" 4 ("male" "empire" "beast"))
                   ("4* empire" 4 ("male" "empire"))
+                  ("4* Finn/Poe" 4 ("male" "resistance"))
+                  ("4* FOTP" 4 ("male" "resistance"))
                   ("4* Ben" 4 ("male" "jedi" "tatooine"))
-                  ("4* Boba" 4 ("male" "bounty" "jabba"))
+                  ("4* Boba" 4 ("male" "bounty" "jabba" "mandalorian"))
                   ("4* Bounty Male" 4 ("male" "bounty"))
                   ("4* Jabba's" 4 ("male" "jabba" "tatooine"))
                   ("4* Sebulba" 4 ("male" "pod" "tatooine"))
@@ -74,6 +84,7 @@
                   ("4* neutral queen" 4 ("female" "republic" "naboo"))
                   ("4* Shu Mai" 4 ("female" "separatist"))
                   ("4* leia" 4 ("female" "rebel"))
+                  ("4* Phasma" 4 ("female" "firstorder"))
                   ("4* female bounty" 4 ("female" "bounty"))
                   ("4* R2D2" 4 ("republic" "droid" "naboo"))
                   ("4* C-3PO" 4 ("republic" "droid" "tatooine"))
@@ -92,7 +103,8 @@
                   ("3* Naboo" 3 ("male" "republic" "naboo"))
                   ("3* republic" 3 ("male" "republic"))
                   ("3* dooku" 3 ("male" "separatist" "sith"))
-                  ("3* jango" 3 ("male" "separatist" "bounty"))
+                  ("3* jango" 3 ("male" "separatist" "bounty" "mandalorian"))
+                  ("3* lott dod" 3 ("male" "separatist" "senator"))
                   ("3* grievous" 3 ("male" "separatist" "droid"))
                   ("3* separatist" 3 ("male" "separatist"))
                   ("3* luke tauntaun" 3 ("male" "rebel" "jedi" "beast" "tatooine"))
@@ -100,10 +112,12 @@
                   ("3* rebel male" 3 ("male" "rebel"))
                   ("3* vader" 3 ("male" "empire" "sith"))
                   ("3* empire male" 3 ("male" "empire"))
+                  ("3* resistance trooper" 3 ("male" "resistance"))
+                  ("3* FO" 3 ("male" "firstorder"))
                   ("3* anisith" 3 ("male" "sith" "tatooine"))
                   ("3* maul" 3 ("male" "sith"))
                   ("3* greedo" 3 ("male" "bounty" "jabba" "tatooine"))
-                  ("3* boba" 3 ("male" "bounty" "jabba"))
+                  ("3* boba" 3 ("male" "bounty" "jabba" "mandalorian"))
                   ("3* jabba/malakili" 3 ("male" "jabba" "tatooine"))
                   ("3* wam lufba" 3 ("male" "jabba"))
                   ("3* male ewok" 3 ("male" "ewok"))
@@ -119,6 +133,7 @@
                   ("3* female rebel" 3 ("female" "rebel"))
                   ("3* zam" 3 ("female" "bounty"))
                   ("3* zephee" 3 ("female" "ewok"))
+                  ("3* Jessika Pava" 3 ("female" "resistance"))
                   ("3* FX-6 [healer]" 3 ("republic" "empire" "droid"))
                   ("3* C-3PO/R4-G9" 3 ("republic" "droid"))
                   ("3* separatist droid" 3 ("separatist" "droid"))
@@ -162,7 +177,7 @@
   )
 
 (define prep-1 `(
-                 ("boss nass"
+                 ("4* boss nass"
                   "prep 1"
                   3
                   ("jedi" "gungan")
@@ -200,7 +215,7 @@
                  ))
 
 (define prep-2 `(
-                 ("boss nass"
+                 ("4* Boss Nass"
                   "prep 2"
                   6
                   ("jedi" "gungan")
@@ -238,7 +253,7 @@
                  ))
 
 (define prep-3 `(
-                 ("boss nass"
+                 ("4* Boss Nass"
                   "prep 3"
                   9
                   ("jedi" "gungan")
@@ -276,7 +291,7 @@
                  ))
 
 (define prep-4 `(
-                 ("boss nass"
+                 ("4* Boss Nass"
                   "prep 4"
                   12
                   ("jedi" "gungan")
@@ -314,7 +329,7 @@
                  ))
 
 (define prep-5 `(
-                 ("boss nass"
+                 ("4* Boss Nass"
                   "prep 5"
                   15
                   ("jedi" "gungan")
