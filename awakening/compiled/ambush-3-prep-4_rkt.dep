@@ -1,0 +1,1 @@
+("6.2" ("c881f70f9d852ff8f4fe07a06b7c922c9599bef3" . "49f2af9437c00927d45b4992f659059bad28a789") (collects #"plai" #"main.rkt") (collects #"racket" #"runtime-config.rkt") #"/Users/ahowes/git/SWFC-supports/awakening/swfc-cards-db.rkt" #"/Users/ahowes/git/SWFC-supports/awakening/swfc-support.rkt" (collects #"plai" #"lang" #"reader.rkt"))

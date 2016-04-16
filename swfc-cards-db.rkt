@@ -34,6 +34,7 @@
                   ("5* Female Jedi" 5 ("female" "republic" "jedi"))
                   ("5* Padme" 5 ("female" "republic" "senator" "naboo"))
 ;                  ("5* Queen" 5 ("female" "republic" "naboo"))
+                  ("5* Ventress" 5 ("female" "separatist"))
                   ("5* Leia" 5 ("female" "rebel"))
                   ("5* Phasma" 5 ("female" "firstorder"))
                   ("5* Rey" 5 ("female" "resistance"))
